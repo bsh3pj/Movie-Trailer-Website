@@ -9,7 +9,7 @@ What things you need to install the software and how to install them
 Python 2.7
 ```
 
-### Installing
+### Installing Python
 
 ```
 Go to https://www.python.org/downloads/ and download Python 2.7
@@ -20,10 +20,13 @@ Once the download is finished, locate the file and run it.
 ```
 Follow the installation wizard. Let Python install to its default directory, C:\Python27\.
 ```
+
 <img src="https://lh5.ggpht.com/ZG8T7LieVpeV2QqouZkLVYlCyaCeCBZoV33lPRTmvgG4PRW1Z_PY4hBWlaX1kWJ0Kn6syfqNTic66O79wWw=s0#w=1308&h=790">
+
 ```
 Ensure that both pip is installed and that Python is added to your PATH.
 ```
+
 <img src="https://lh3.ggpht.com/Vdm5wWEuR43jTLdDs57jbFqXMqKx2FjcE3tB2lw1h5a6x9bcGDFPoMyn1UVrCOtodhzXTQIPF0dJzKw4YC6g=s0#w=674&h=184">
 <img src="https://lh5.ggpht.com/ODH1gD_MEACkbsE_BNxy5NJl6PoczGT_zef0-AUbtr2wPYnwigFekykKGXXRWQD3mwa6DRKmUj_BZtVWRsAz=s0#w=992&h=851">
 
@@ -42,4 +45,4 @@ easy to edit and run Python code.
 
 ## Acknowledgments
 
-* Used the instructions from [Udacity]([bsh3pj](https://github.com/bsh3pj)) for the installation of Python 2.7
+* Used the instructions from [Udacity](https://www.udacity.com/) for the installation of Python 2.7
