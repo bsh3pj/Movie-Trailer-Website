@@ -7,6 +7,7 @@ What things you need to install the software and how to install them
 
 ```
 Python 2.7
+web browser
 ```
 
 ### Installing Python
@@ -33,6 +34,31 @@ Ensure that both pip is installed and that Python is added to your PATH.
 ```
 To confirm that your installation was successful, open IDLE, a program installed by Python that makes it 
 easy to edit and run Python code.
+```
+
+### Opening the Webpage
+
+```
+Download the repository to your computer using the green "Clone or download" button near the top of the page
+```
+```
+Unzip the file your just downloaded
+```
+```
+Find the file "entertainment_center.py", right click it, and click run
+If you are an experienced user, then you can use other methods of running the file
+```
+
+<img src="https://i.imgur.com/ngi6kkc.png">
+
+```
+If you installed Python correctly the webpage below should open
+```
+
+<img src="https://i.imgur.com/wQZ9rj0.jpg">
+
+```
+You can click the images to view their YouTube trailers. Enjoy!
 ```
 
 ## Built With
